@@ -9,7 +9,7 @@ Following are the resources for the Interview Preparation for Entry level Softwa
 ## [High-Level Design](https://github.com/shahzaneer/High-Level-System-Design)
 ## [API Design](https://github.com/shahzaneer/API-Design)
 ## [Software Engineering Concepts](https://github.com/shahzaneer/Software-Engineering-Concepts)
-# Subject Specific 
+# Fiels Specific 
 ## [Mobile App Development]()
 ## [DevOps]()
 
