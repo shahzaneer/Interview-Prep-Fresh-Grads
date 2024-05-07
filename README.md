@@ -8,6 +8,7 @@ Following are the resources for the Interview Preparation for Entry level Softwa
 ## Operating Systems
 ## High-Level Design
 ## API Design
+## Software Engineering Concepts
 # Subject Specific 
 ## Mobile App Development
 ## DevOps
