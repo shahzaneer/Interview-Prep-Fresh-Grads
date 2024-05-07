@@ -1,6 +1,6 @@
 # Interview Prep Fresh Grads
 Following are the resources for the Interview Preparation for Entry level Software Engineers.
-## Object-Oriented Programming
+## [Object-Oriented Programming](https://github.com/shahzaneer/Core-Object-Oriented-Programming)
 [OOp here](https://github.com/shahzaneer/Core-Object-Oriented-Programming)
 ## Low-Level Design
 ## Data Structures & Algorithms
