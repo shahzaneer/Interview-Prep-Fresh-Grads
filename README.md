@@ -1,5 +1,5 @@
 # Interview Prep Fresh Grads
-Following are the resources for the Interview Preparation for Entry level Software Engineers.
+Following are the resources for the Interview Preparation for Entry Level Software Engineers.
 ## [Object-Oriented Programming](https://github.com/shahzaneer/Core-Object-Oriented-Programming)
 ## [Low-Level Design](https://github.com/shahzaneer/Low-Level-System-Design)
 ## [Data Structures & Algorithms](https://github.com/shahzaneer/Data-Structures-and-Algorithms)
@@ -11,7 +11,10 @@ Following are the resources for the Interview Preparation for Entry level Softwa
 ## [Software Engineering Concepts](https://github.com/shahzaneer/Software-Engineering-Concepts)
 ## [Version Controlling System](https://github.com/shahzaneer/Git-and-Github-Fundamentals)
 
-# Field Specific 
+# Field Specific
 ## [Mobile App Development]()
-## [DevOps]()
+## [Node+Express]()
+## [GenAI]()
+## [Computer Vision]()
+## [DevOps](https://github.com/shahzaneer/DevOps/)
 
