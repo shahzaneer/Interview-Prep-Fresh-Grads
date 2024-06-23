@@ -13,8 +13,8 @@ Following are the resources for the Interview Preparation for Entry Level Softwa
 ## [Version Controlling System](https://github.com/shahzaneer/Git-and-Github-Fundamentals)
 
 # Field Specific
-## [Mobile App Development]()
-## [Node+Express]()
+## [Mobile App Development (Flutter)]()
+## [Backend Development (Node+Express)]()
 ## [GenAI]()
 ## [Computer Vision]()
 ## [DevOps](https://github.com/shahzaneer/DevOps/)
