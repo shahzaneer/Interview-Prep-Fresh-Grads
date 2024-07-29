@@ -16,13 +16,13 @@
 ## [Version Controlling System](https://github.com/shahzaneer/Git-and-Github-Fundamentals)
 
 # Field Specific
-## [Mobile App Development (Flutter)]()
-## [Backend Development (Node+Express)]()
-## [GenAI]()
-## [Computer Vision]()
+## [Mobile App Development (Flutter)](https://docs.flutter.dev/)
+## [Backend Development (Node+Express / Django)]()
 ## [DevOps](https://github.com/shahzaneer/DevOps/)
-
-
+***
+## [Web-Basics]()
+## [React]()
+***
 *** 
 ```dart
 void main(){
